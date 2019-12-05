@@ -1,4 +1,4 @@
 # gitTest
 
 
-add master  A   add master  A  
+add  feather C  add master  A   add feather  B 
